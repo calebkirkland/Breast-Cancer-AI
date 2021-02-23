@@ -1,4 +1,4 @@
-# Breast--Cancer-AI
+# Breast-Cancer-AI
 Author: Caleb Kirkland 
 
 Student Email: cok18@msstate.edu
